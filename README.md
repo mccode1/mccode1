@@ -4,7 +4,9 @@
 - 💼 faço curso tecnico de informática
 - 😄 Ela/Dela
 
--  <div>
+  Estudante de informática, cursando o primeiro ano do ensino médio, as linguagens que mais tenho facilidade de trabalhar é python e html, trabalhando tambem no portugol e me especializando em css para melhor entendimento do Vscode
+
+  <div>
   <a href="https://github.com/mccode1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mccode1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mccode1&layout=compact&langs_count=16&theme=dracula"/>
